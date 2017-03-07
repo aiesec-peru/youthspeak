@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="{{URL::asset('css/materialize.min.css')}}">
 	<link rel="stylesheet" href="{{URL::asset('css/font-awesome.min.css')}}">
 	<link rel="shortcut icon" href="{{URL::asset('css/font-awesome.min.css')}}" />
-	<link rel="icon" sizes="192x192" href="{{URL::asset('img/logo/favicon.png')}}">
+	<link rel="icon" sizes="192x192" href="{{URL::asset('img/logo/favicon_azul.png')}}">
 	<!--Custom-->
 	@yield('css')
 </head>

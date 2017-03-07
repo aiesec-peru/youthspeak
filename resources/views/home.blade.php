@@ -90,7 +90,7 @@
 	      			</div>
 	      			<div class="col s12 m12 l12">
 	      				<h4><span class="light">General</span> <b>s/. 50</b></h4>
-	      				<h5 class="light">Incluye: Charlas magistrales, <br>talleres, feria laboral, almuerzo<br> y coffee breaks</h5>
+	      				<h5 class="light">Incluye: Charlas magistrales, <br>talleres, feria, almuerzo<br> y coffee breaks</h5>
 	      				<h5 class="light">Preventa hasta el 15 de Marzo: <br>s/. 45</h5>
 	      			</div>
 	      		</div>
