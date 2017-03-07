@@ -6,6 +6,11 @@
  * Made By MaterializeCSS.com
  */
 
+/* Nav */
+.bg-nav{
+  background: url('../img/logo/nav.jpg');
+}
+
 /* Icons */
 .explain-icons{
 	font-size: 100px;
@@ -82,6 +87,11 @@ body{
   font-weight: 700;
 }
 
+.sub-title-x{
+  font-weight: 300;
+  font-size: 2em;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -120,7 +130,6 @@ p {
   line-height: 50px;
 }
 
-
 /*
 .parallax-ods{
 
@@ -148,14 +157,43 @@ p {
   }
 }
 
-@media only screen and (max-width : 600px) {
+@media only screen and (max-width : 600px) {  
+  
+  .info-title{
+    margin-top: -400px;
+  }
+
+  .info-sub{
+    margin-top: -200px;    
+  }
+
+  .info-sub-x{
+    margin-top: -320px;
+  }
+
+  .info-sub-y{
+    margin-top: -50px;
+  }
+
+  .info-sub-z{
+    margin-top: 2em;
+  }
+
+  .parallax-container-info{
+    min-height: 1200px;
+  }
+
+  .y4ggcont{
+    font-size: 30px;
+  }
+
   #index-banner .section {
     top: 0;
   }
 
   .title-principal{
-    margin-bottom: 0.5em;
-    font-size: 54px;
+    margin-bottom: 0.2em;
+    font-size: 50px;
   }
 
 }
