@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>YouthSpeak Forum</title>
+	<title>Youth Speak Forum</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<!--ext-->
 	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -58,7 +58,7 @@
               	<div class="col s12 l3">
                 	<h5 class="white-text">Síguenos</h5>
                 	<ul class="white-text list-social">
-                  		<li class="list-social-item"><a href="https://www.facebook.com/AIESECPeru" target="_blank"><i class="white-text fa fa-facebook fa-2x" aria-hidden="true"></a></i></li>
+                  		<li class="list-social-item"><a href="https://www.facebook.com/events/1916029421983161/" target="_blank"><i class="white-text fa fa-facebook fa-2x" aria-hidden="true"></a></i></li>
                   		<li class="list-social-item"><a href="https://www.youtube.com/user/AIESECPeru" target="_blank"><i class="white-text fa fa-youtube-play fa-2x" aria-hidden="true"></a></i></li>
                   		<li class="list-social-item"><a href="https://www.instagram.com/aiesecenperu/" target="_blank"><i class="white-text fa fa-instagram fa-2x"></a></i></li>
                   		<li class="list-social-item"><a href="https://twitter.com/AIESEC_PERU" target="_blank"><i class="white-text fa fa-twitter fa-2x"></a></i></li>
