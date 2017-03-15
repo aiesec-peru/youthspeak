@@ -49,7 +49,7 @@
 		<div class="container">
             <div class="row">
               	<div class="col s12 l8">
-                	<h5 class="white-text">#YouthSpeakForum</h5>
+                	<h5 class="white-text">#YouthSpeakForum <br> <br>#JovenesPorLosODS</h5>
                 	<p class="grey-text text-lighten-4">Un lugar donde la inspiración y la colaboración se convierten en acción.</p>
               	</div>
 

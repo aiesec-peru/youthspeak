@@ -13,15 +13,13 @@
 	      <div class="container center">
             <!--<img class="center responsive-img whitespace-large img-logo" src="{{URL::asset('img/liderazgo_sostenible.png')}}">-->
 	        <img src="{{URL::asset('img/logo/logo.png')}}" alt="">
-	        <h1 class="title-principal wow fadeInDown" data-wow-delay="0.1s">America Youth Speak Forum <br>2017</h1>
+	        <h1 class="title-principal wow fadeInDown" data-wow-delay="0.1s">Americas Youth Speak Forum <br>2017</h1>
             <h5 class="header col s12 light center">
 	        	<p class="wow fadeIn" data-wow-delay="0.4s"><strong>Un lugar donde la inspiración y la <br>colaboración se convierten en acción</strong></p>
-            </h5>            
-	        <div class="row"><div class="section"></div></div>
-	        <!--<div class="row center wow zoomIn" data-wow-delay="0.3s">
-	        	<div class="section"></div>
-	         	<a href="#modal1" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-blue amber accent-3 z-depth-3"><strong>Dona tus horas</strong></a>
-	      	</div>-->
+            </h5>
+	        <div class="row center wow zoomIn" data-wow-delay="0.3s">
+	         	<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a>
+	      	</div>
 	      </div>
 	    </div>
 	    <div class="parallax"><img src="{{URL::asset('img/bg/home.png')}}" alt="Unsplashed background img 1"></div>
@@ -89,7 +87,7 @@
 	      				<img class="img-responsive" src="{{URL::asset('img/icons/sales.png')}}" width="150">
 	      			</div>
 	      			<div class="col s12 m12 l12">
-	      				<h4><span class="light">General</span> <b>s/. 50</b></h4>
+	      				<h4><span class="light">General</span> <b>s/. 60</b></h4>
 	      				<h5 class="light">Incluye: Charlas magistrales, <br>talleres, feria, almuerzo<br> y coffee breaks</h5>
 	      				<h5 class="light">Preventa hasta el 15 de Marzo: <br>s/. 45</h5>
 	      			</div>
@@ -248,31 +246,35 @@
 <!--Partners-->
 <section class="container-fluid section" id="aliados">
     <article class="container y-azul-text">
-        <h4 class="center-align whitespace-short light">Youth Speak Forum es <b>organizado</b> por</h4>
-        <div class="row section center">
+        <h4 class="center-align light">Youth Speak Forum es <b>organizado</b> por</h4>
+        <div class="row center">
             <article class="col s12 m4 offset-m4 l4 offset-l4">
                 <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/aiesec.png')}}" alt=""></div>
             </article>
         </div>
-        <h4 class="center-align whitespace-short light">Con la <b>colaboración</b> de</h4>
-        <div class="row section center">        
-            <article class="col s12 m4 l4">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/plastic_oceans.png')}}" alt=""></div>
-            </article>       
-            <article class="col s12 m4 l4">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/onu.png')}}" alt=""></div>
-            </article>       
-            <article class="col s12 m4 l4">
+        <h4 class="center-align light"><b>Coorganiza:</b></h4>
+        <div class="row section center">
+            <article class="col s12 m3 l3">
                 <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/equipu.png')}}" alt=""></div>
             </article>
-		</div>
-		<div class="row section center">        
-            <article class="col s12 m4 offset-m2 l4 offset-l2">
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/onu.png')}}" alt=""></div>
+            </article>
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/dars.png')}}" alt=""></div>
+            </article>
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/pucp.png')}}" alt=""></div>
+            </article>
+        </div>
+        <h4 class="center-align whitespace-short light"><b>Participan:</b></h4>
+        <div class="row section center">
+            <article class="col s12 m3 offset-m3 l3 offset-l3">
                 <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/crea.png')}}" alt=""></div>
             </article>       
-            <article class="col s12 m4 l4">
+            <article class="whitespace-short col s12 m3 l3">
                 <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/wwf.png')}}" alt=""></div>
-            </article>
+            </article>   
 		</div>
     </article>
 </section>
