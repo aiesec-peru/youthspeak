@@ -220,6 +220,14 @@ footer.page-footer {
 }
 
 @media only screen and (max-width: 620px) {
+.title-principal{
+  font-size: 40px;
+}
+
+#logo-principal{
+  width: 200px;  
+}
+
 .call-to-action-title{
   margin: -1.3em;
 }

@@ -12,7 +12,7 @@
 	    <div class="section no-pad-bot">
 	      <div class="container center">
             <!--<img class="center responsive-img whitespace-large img-logo" src="{{URL::asset('img/liderazgo_sostenible.png')}}">-->
-	        <img src="{{URL::asset('img/logo/logo.png')}}" alt="">
+	        <img id="logo-principal" src="{{URL::asset('img/logo/logo.png')}}" alt="">
 	        <h1 class="title-principal wow fadeInDown" data-wow-delay="0.1s">Americas Youth Speak Forum <br>2017</h1>
             <h5 class="header col s12 light center">
 	        	<p class="wow fadeIn" data-wow-delay="0.4s"><strong>Un lugar donde la inspiración y la <br>colaboración se convierten en acción</strong></p>
