@@ -269,12 +269,40 @@
         </div>
         <h4 class="center-align whitespace-short light"><b>Participan:</b></h4>
         <div class="row section center">
-            <article class="col s12 m3 offset-m3 l3 offset-l3">
+            <article class="col s12 m3 l3">
                 <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/crea.png')}}" alt=""></div>
-            </article>       
-            <article class="whitespace-short col s12 m3 l3">
+            </article>
+            <article class="col s12 m3 l3">
                 <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/wwf.png')}}" alt=""></div>
-            </article>   
+            </article>
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/care.png')}}" alt=""></div>
+            </article>
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/inppares.png')}}" alt=""></div>
+            </article>
+		</div>
+		<div class="row section center">
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/minam.png')}}" alt=""></div>
+            </article>
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/champs.png')}}" alt=""></div>
+            </article>
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/rua.png')}}" alt=""></div>
+            </article>
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/un.png')}}" alt=""></div>
+            </article>
+		</div>
+		<div class="row section center">
+            <article class="col s12 m3 offset-m3 l3 offset-l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/techo.png')}}" alt=""></div>
+            </article>
+            <article class="col s12 m3 l3">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/ops.png')}}" alt=""></div>
+            </article>
 		</div>
     </article>
 </section>
