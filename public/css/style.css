@@ -11,6 +11,11 @@
   background: url('../img/logo/nav.jpg');
 }
 
+ .parallax-container-y4gg{
+    min-height: 214px!important;
+    max-height: 214px;
+  }
+
 /* Icons */
 .explain-icons{
 	font-size: 100px;
@@ -142,6 +147,10 @@ p {
   height: 300px;
 }*/
 
+.padd-left{
+  padding-left: 1em;
+}
+
 .contador_wrapper{
   margin-top: 0px;
 }
@@ -220,6 +229,22 @@ footer.page-footer {
 }
 
 @media only screen and (max-width: 620px) {
+.title-ponentes{
+  font-size: 1em;
+}
+
+.inspirar-text{
+  font-size: 1.2em;
+}
+
+.ponente-img{
+  width: 100px;
+}
+
+.hello-bar{
+  height: 130!important;
+}
+
 .title-principal{
   font-size: 40px;
 }

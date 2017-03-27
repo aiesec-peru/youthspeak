@@ -16,6 +16,14 @@
 	@yield('css')
 </head>
 <body>
+	<section class=" white-text center hello-bar" style="height: 60px; background: #C2210D" >
+		<div style="display: inline-block;">
+			<p style="margin: 0; display: inline-block; padding-top: 1em;"><b>Es momento que los jóvenes sumen fuerzas para construir un mejor Perú.</b></p>			
+		</div>
+		<div style="display: inline-block;">
+			<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="valign btn waves-effect waves-light y-celeste z-depth-3" style="display: inline-block; margin-left: 1em;"><strong>Adquiere tu entrada</strong></a>
+		</div>
+	</section>
 	<!--MENU-->
 	<nav class="ys-azul bg-nav" role="navigation">
 	    <div class="nav-wrapper container">
@@ -26,7 +34,8 @@
 	        <li><a href="#metodologia" class="white-text">Metodología</a></li>
 	        <li><a href="#programa" class="white-text">Programa</a></li>
 	        <li><a href="#ponentes" class="white-text">Ponentes</a></li>
-	        <li><a href="https://podio.com/webforms/17985408/1208462" target="_blank" class="white-text"><b>Adquiere tu entrada</b></a></li>
+	        <li><a href="https://podio.com/webforms/17985408/1208462" class="white-text">Adquiere tu entrada</a></li>
+	        <!--<li><a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a></li>-->
 	      </ul>
 
 	      <ul id="nav-mobile" class="side-nav y-azul">
@@ -36,7 +45,8 @@
 	        <li><a href="#programa" class="white-text">Programa</a></li>
 	        <li><a href="#ponentes" class="white-text">Ponentes</a></li>
 	        <li><a href="#aliados" class="white-text">Aliados</a></li>
-	        <li><a href="https://podio.com/webforms/17985408/1208462" target="_blank" class="white-text"><b>Adquiere tu entrada</b></a></li>
+	        <li><a href="https://podio.com/webforms/17985408/1208462" class="white-text">Adquiere tu entrada</a></li>
+	        <li></li>
 	      </ul>
 	      <a href="#" data-activates="nav-mobile" class="button-collapse right"><i class="white-text material-icons">menu</i></a>
 	    </div>

@@ -14,9 +14,9 @@
             <!--<img class="center responsive-img whitespace-large img-logo" src="{{URL::asset('img/liderazgo_sostenible.png')}}">-->
 	        <img id="logo-principal" src="{{URL::asset('img/logo/logo.png')}}" alt="">
 	        <h1 class="title-principal wow fadeInDown" data-wow-delay="0.1s">Americas Youth Speak Forum <br>2017</h1>
-            <h5 class="header col s12 light center">
+            <!--<h5 class="header col s12 light center">
 	        	<p class="wow fadeIn" data-wow-delay="0.4s"><strong>Un lugar donde la inspiración y la <br>colaboración se convierten en acción</strong></p>
-            </h5>
+            </h5>-->
 	        <div class="row center wow zoomIn" data-wow-delay="0.3s">
 	         	<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a>
 	      	</div>
@@ -29,70 +29,142 @@
 
 <!--Explain-->
 <section class="container y-azul-text  section center"  id="about">
-    <h3 class="y-azul-text whitespace-short sub-title-x">El foro reunirá a empresas privadas, ONG's, gobierno y sociedad civil para <br>intercambiar ideas, compartir propuestas y generar acciones que <br>contribuyan a los <b>Objetivos del Desarrollo Sostenible</b></h3>
-    <section class="row center">
-        <div class="col s12 m12 l12 whitespace-large">
-            <div class="col s4 m4 l4 center">
-            	<i class="material-icons explain-icons">face</i>
-                <h5 class="sub-title">+800 delegados</h5>
-            </div>
-            <div class="col s4 m4 l4 center">            	                  
-            	<i class="material-icons explain-icons">favorite</i>
-                <h5 class="sub-title">Jóvenes en acción</h5>
-            </div>
-			<div class="col s4 m4 l4 center">                    
-            	<i class="material-icons explain-icons">public</i>
-				<h5 class="sub-title">+20 países presentes</h5>
+    <h3 class="y-azul-text whitespace-short sub-title-x">Un lugar donde la inspiración y la colaboración se convierten en acción a favor de los <b>Objetivos de Desarrollo Sostenible</b></h3>	
+</section>
+<!-- /Explain-->
+
+<!--Video-->
+<section class="container-fluid">
+	<div class="video-container">
+        <iframe width="853" height="480" src="//www.youtube.com/embed/foSu6LxGKrA?rel=0" frameborder="0" allowfullscreen></iframe>
+      </div>
+</section>
+<!--/Video-->
+
+<!--Explain 2-->
+<section class="container y-azul-text section"  id="metodologia">
+    <h3 class="y-azul-text whitespace-short sub-title center"><span class="light">Datos</span> <b>Generales</b></h3>
+    <section>
+		<article class="row">
+			<div class="col s12 m5 offset-m2 l5 offset-l1 valign-wrapper">
+				<img class="responsive-img" src="{{URL::asset('img/icons/data/calendar.png')}}">
+				<p class="valign padd-left"><b>Fecha:</b> Jueves 6 de Abril</p>
 			</div>
-        </div>
+			<div class="col s12 m5 l5 valign-wrapper">
+				<img class="responsive-img" src="{{URL::asset('img/icons/data/keynotes.png')}}">
+				<p class="valign padd-left"><b>Charlas Magistrales:</b> 4</p>
+			</div>
+		</article>
+		<article class="row">
+			<div class="col s12 m5 offset-m2 l5 offset-l1 valign-wrapper">
+				<img class="responsive-img" src="{{URL::asset('img/icons/data/time.png')}}">
+				<p class="valign padd-left"><b>Hora: </b>8am a 8pm</p>
+			</div>
+			<div class="col s12 m5 l5 valign-wrapper">
+				<img class="responsive-img" src="{{URL::asset('img/icons/data/workshops.png')}}">
+				<p class="valign padd-left"><b>Talleres de ODS: </b>20 en simultáneo</p>
+			</div>
+		</article>
+		<article class="row">
+			<div class="col s12 m5 offset-m2 l5 offset-l1 valign-wrapper">
+				<img class="responsive-img" src="{{URL::asset('img/icons/data/place.png')}}">
+				<p class="valign padd-left"><b>Lugar: </b>Polideportivo PUCP, Av. Universitaria 1801, San Miguel. Lima, Perú</p>
+			</div>
+			<div class="col s12 m5 l5 valign-wrapper">
+				<img class="responsive-img" src="{{URL::asset('img/icons/data/feria.png')}}">
+				<p class="valign padd-left"><b>Feria de Responsabilidad Social: </b>15 stands</p>				
+			</div>
+		</article>
+		<article class="row">
+			<div class="col s12 m5 offset-m2 l5 offset-l1 valign-wrapper">
+				<img class="responsive-img" src="{{URL::asset('img/icons/data/capacity.png')}}">
+				<p class="valign padd-left"><b>Capacidad: </b>800 asistentes</p>
+			</div>
+			<div class="col s12 m5 l5 valign-wrapper">
+				<img class="responsive-img section" src="{{URL::asset('img/icons/data/include.png')}}">
+				<p class="valign padd-left"><b>Incluye: </b>Almuerzo y Coffee Breaks</p></div>
+		</article>
+		<article class="row">
+			<div class="col s12 m5 offset-m2 l5 offset-l1 valign-wrapper">
+				<img class="responsive-img" src="{{URL::asset('img/icons/data/countries.png')}}">
+				<p class="valign padd-left"><b>Países participantes: </b>20 países</p>
+			</div>
+		</article>
     </section>   
-    <section class="row">
-    	<article class="col s12 m6 offset-m3 l6 offset-l3">
-	    	<div class="video-container">
-	        	<iframe width="400" src="//www.youtube.com/embed/IQwGNZlW96A?rel=0" frameborder="0" allowfullscreen></iframe>
-	      	</div>    		
+    <h3 class="y-azul-text whitespace-short sub-title center"><span class="light">Precio</span> <b>Entrada</b></h3>
+    <section>
+    	<article class="row">
+    		<div class="col s12 m1 l1 center">
+	      		<img class="responsive-img" src="{{URL::asset('img/icons/data/pricing.png')}}" alt="">
+    		</div>
+    		<div class="col s12 m3 l3 center">
+    			<h5><b style="text-decoration: underline">1 al 15 de marzo</b></h5>
+    			<h5 class="light">s/. 45</h5>
+    		</div>
+    		<div class="col s12 m4 l4 center">
+    			<h5><b style="text-decoration: underline">16 al 31 de marzo</b></h5>
+    			<h5 class="light">s/. 60</h5>
+    		</div>
+    		<div class="col s12 m3 l3 center">
+    			<h5><b style="text-decoration: underline">1 al 2 de abril</b></h5>
+    			<h5 class="light">s/. 75</h5>
+    		</div>
     	</article>
     </section>
 </section>
 <!-- /Explain-->
 
-<!-- Call to action-->
+<!-- Ponentes-->
 <section>
-	<div class="parallax-overlay"  id="info">
+	<div class="parallax-overlay">
 	<div id="call_to_action" class="parallax-container parallax-container-info">
-	    <div class="section no-pad-bot whitespace-large">
-    	<h3 class="whitespace-short sub-title center info-title">Información General</h3>	    	
-	      <div class="container section center">
-	      	<article class="row">
-	      		<div class="col s12 m4 l4 info-sub info-sub-x">
-	      			<div class="col s12 m12 l12">
-	      				<img class="img-responsive" src="{{URL::asset('img/icons/agenda.png')}}" width="150">	      				
-	      			</div>
-	      			<div class="col s12 m12 l12">
-	      				<h4><span class="light">Jueves</span> <b>06 de Abril</b></h4>	      				
-	      				<h5 class="light">8 am a 8 pm</h5>
-	      			</div>
+	    <div class="section no-pad-bot">
+    	<h3 class="sub-title center info-title"><span class="light">Ponencias</span> <b>Magistrales</b></h3>
+	      <div class="container">
+	      	<article class="row valign-wrapper">
+	      		<div class="col s12 m1 offset-m2 l1 offset-l2">
+	      			<img class="responsive-img" src="{{URL::asset('img/icons/inspire.png')}}" width="100">
 	      		</div>
-	      		<div class="col s12 m4 l4 info-sub-y">
-	      			<div class="col s12 m12 l12">
-	      				<img class="img-responsive" src="{{URL::asset('img/icons/location.png')}}" width="150">
-	      			</div>
-	      			<div class="col s12 m12 l12">
-	      				<h5><span class="light">Polideportivo</span> <b>PUCP</b></h5>
-	      				<h5 class="light">Av. Universitaria 1801,<br>San Miguel</h5>
-	      			</div>
-	      		</div>
-	      		<div class="col s12 m4 l4 info-sub-z">
-	      			<div class="col s12 m12 l12">
-	      				<img class="img-responsive" src="{{URL::asset('img/icons/sales.png')}}" width="150">
-	      			</div>
-	      			<div class="col s12 m12 l12">
-	      				<h4><span class="light">General</span> <b>s/. 60</b></h4>
-	      				<h5 class="light">Incluye: Charlas magistrales, <br>talleres, feria, almuerzo<br> y coffee breaks</h5>
-	      				<h5 class="light">Preventa hasta el 15 de Marzo: <br>s/. 45</h5>
-	      			</div>
+	      		<div class="valign">
+	      			<h5 style="padding-left: 1em" class="inspirar-text"><b>INSPIRAR: </b><span class="light">Líderes de diferentes sectores comparten perspectivas, dialogan <br>sobre las problemáticas del país e incentivan a los jóvenes a tomar acción.</span></h5>
 	      		</div>
 	      	</article>
+			
+			<article class="row">
+				<div class="col s4 m3 l3 center">
+                	<div><img class="responsive-img ponente-img" src="{{URL::asset('img/ponentes/nancy_lange.png')}}" alt=""></div>
+                	<h5 class="title-ponentes"><b>Nancy Lange</b></h5>
+                	<h6 class="title-ponentes">Primera Dama <br>de la Nación <br>- Gobierno del Perú -</h6>
+            	</div>
+            	<div class="col s4 m3 l3 center">
+                	<div><img class="responsive-img ponente-img" src="{{URL::asset('img/ponentes/maria_sacasa.png')}}" alt=""></div>
+                	<h5 class="title-ponentes"><b>Maria Sacasa</b></h5>
+                	<h6 class="title-ponentes">Coordinadora Residente <br>de ONU Perú</h6>
+            	</div>
+            	<div class="col s4 m3 l3 center">
+                	<div><img class="responsive-img ponente-img" src="{{URL::asset('img/ponentes/maria_eugenia_mujica.png')}}" alt=""></div>
+                	<h5 class="title-ponentes"><b>María Eugenia Mujica</b></h5>
+                	<h6 class="title-ponentes">Viceministra de Políticas <br> y Evaluación Social <br> - MIDIS -</h6>
+            	</div>            	
+			</article>
+			<article class="row">				
+				<div class="col s4 m3 offset-m3 l3 offset-l3 center">
+                	<div><img class="responsive-img ponente-img" src="{{URL::asset('img/ponentes/brigette_allen.png')}}" alt=""></div>
+                	<h5 class="title-ponentes"><b>Brigette Allen</b></h5>
+                	<h6 class="title-ponentes">Directora de <br>Desarrollo Global <br>- Plastic Oceans -</h6>
+            	</div>
+            	<div class="col s4 m3 l3 center">
+                	<div><img class="responsive-img ponente-img" src="{{URL::asset('img/ponentes/fernando_tamayo.png')}}" alt=""></div>
+                	<h5 class="title-ponentes"><b>Fernando Tamayo</b></h5>
+                	<h6 class="title-ponentes">Directo General y <br>Cofundador <br>- Yaqua -</h6>
+            	</div>
+            	<div class="col s4 m3 l3 center">
+                	<div><img class="responsive-img ponente-img" src="{{URL::asset('img/ponentes/julie_andersen.png')}}" alt=""></div>
+                	<h5 class="title-ponentes"><b>Julie Andersen</b></h5>
+                	<h6 class="title-ponentes">Directora de <br>Operaciones <br>- Plastic Oceans -</h6>
+            	</div>
+			</article>
+	      	
 	        <div class="row center wow zoomIn" data-wow-delay="0.3s">
 	        	<div class="section"></div>
 	         	<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a>
@@ -103,32 +175,113 @@
 	</div>
 		</div>
 </section>
-<!-- /Call to action -->
+<!-- /Ponentes -->
 
 <!--Explain 2-->
-<section class="container y-azul-text  section"  id="metodologia">
-    <h3 class="y-azul-text whitespace-short sub-title center"><span class="light">Metodología</span> <b>innovadora</b> <span class="light">para generar resultados</span></h3>
-    <section class="row">
-        <article class="col s12 m4 l4 center">
-        	<h4><b>INSPIRAR</b></h4>
-			<img class="activator" src="{{URL::asset('img/icons/sello1.jpg')}}">
-			<p class="light">Líderes de diferentes sectores <br>comparten perspectivas, <br>dialogan sobre las <br>problemáticas del país e <br>incentivan a los jóvenes a <br>tomar acción.</p>
-		</article>
-		<article class="col s12 m4 l4 center">
-        	<h4><b>INVOLUCRAR</b></h4>
-			<img class="activator" src="{{URL::asset('img/icons/sello2.jpg')}}">
-			<p class="light">Aliados de la organización <br>dictan talleres con temáticas <br>específicas que motivan el <br>intercambio de ideas, discusión <br>y síntesis de una problemática <br>entre los jóvenes asistentes.</p>
-		</article>
-		<article class="col s12 m4 l4 center">
-        	<h4><b>ACTUAR</b></h4>
-			<img class="activator" src="{{URL::asset('img/icons/sello3.jpg')}}">
-			<p class="light">Los jóvenes son desafiados a <br>crear una iniciativa innovadora <br>o mejorar proyectos ya <br>existentes. Las ideas mejor <br>planteadas serán premiadas al <br>final del día.</p>
-		</article>
-		
-        </div>
-    </section>   
+<section class="container y-azul-text section">
+    <h3 class="y-azul-text whitespace-short sub-title center"><b>Talleres</b></h3>
+	<section>
+		<article class="row valign-wrapper">
+      		<div class="col s12 m2 l2">
+      			<img class="responsive-img" src="{{URL::asset('img/icons/engage.png')}}" width="100">
+      		</div>
+      		<div class="valign">
+      			<h5 class="padd-left"><b>INVOLUCRAR: </b><span class="light">Aliados de la organización dictan talleres con temáticas específicas que motivan el intercmbio de ideas, discusión y síntesis de una problemática.</span></h5>
+      		</div>
+      	</article>
+      	<section>
+      		<article class="row section">
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/1-1.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/3-1.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/3-2.jpg')}}">      				      				
+      			</div>
+      		</article>
+      		<article class="row section">
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/4-1.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/4-2.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/5-1.jpg')}}">      				      				
+      			</div>
+      		</article>
+      		<article class="row section">
+      			<div class="col s12 m4 l4">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/10-1.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/13-1.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/13-2.jpg')}}">      				      				
+      			</div>
+      		</article>      		
+      	</section>
+	</section>
 </section>
 <!-- /Explain-->
+
+<!-- Y4GG-->
+<section class="hide-on-small-only">
+	<div class="parallax-overlay">
+	<div id="y4gg" class="parallax-container parallax-container-y4gg">
+	    <div class="section no-pad-bot">
+		    <div class="container-fluid center">
+			      	<div class="row valign-wrapper">
+			      		<div class="col s4 m4 l4">
+				      		<h4 class="header col s12 light center">
+					        	<p class="y4ggcont wow fadeIn" data-wow-delay="0.4s">Este evento <b>contribuye</b> a</p>
+				            </h4>
+			      		</div>
+			      		<div class="col s4 m4 l4">
+				      		<div class="center ods-image">
+				      			<img src="{{URL::asset('img/logo/y4gg.png')}}" alt="">
+				      		</div>	      			
+			      		</div>
+			      		<div class="col s4 m4 l4 valign">
+			            	<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a>
+			      		</div>
+			      	</div>
+		    </div>
+		    <div class="parallax"><img src="{{URL::asset('img/bg/support.jpg')}}" alt="Unsplashed background img 1"></div>
+		</div>
+	</div>
+</section>
+<!-- /Y4GG -->
+
+<!--Explain 3: Action-->
+<section class="container y-azul-text section">
+    <h3 class="y-azul-text whitespace-short sub-title center"><span class="light">Iniciativa</span> <b>por los ODS</b></h3>
+	<section>
+		<article class="row valign-wrapper">
+      		<div class="col s12 m2 l2">
+      			<img class="responsive-img" src="{{URL::asset('img/icons/act.png')}}" width="100">
+      		</div>
+      		<div class="valign">
+      			<h5 class="padd-left"><b>ACTUAR: </b><span class="light">Los jóvenes son desafiados a crear una iniciativa innovadora o a mejorar proyectos ya existentes. Los jóvenes tendrá la oportunidad de crear o innovar.</span></h5>
+      		</div>
+      	</article>
+      	<section>
+      		<article class="row section">
+      			<div class="col s12 m6 l6 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/facts/crear.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m6 l6">
+      				<img class="responsive-img" src="{{URL::asset('img/facts/innovar.jpg')}}">      				      				
+      			</div>
+      		</article>   		
+      	</section>
+	</section>
+</section>
+<!-- /Explain-->
+
 
 <!-- Agenda Desktop-->
 <section class="hide-on-small-only" id="programa">
@@ -140,13 +293,13 @@
 	      		<div class="center">
 	      			<h2>El Programa</h2>
 	      			<div class="row">
-	      				<img class="img-responsive" src="{{URL::asset('img/agenda/inspirar.png')}}" alt="">
+	      				<img class="responsive-img" src="{{URL::asset('img/agenda/inspirar.png')}}" alt="">
 	      			</div>
 	      			<div class="row">
-	      				<img class="img-responsive" src="{{URL::asset('img/agenda/involucrar.png')}}" alt="">
+	      				<img class="responsive-img" src="{{URL::asset('img/agenda/involucrar.png')}}" alt="">
 	      			</div>
 	      			<div class="row">
-	      				<img class="img-responsive" src="{{URL::asset('img/agenda/actuar.png')}}" alt="">
+	      				<img class="responsive-img" src="{{URL::asset('img/agenda/actuar.png')}}" alt="">
 	      			</div>
 	      		</div>
 	      	</div>
@@ -171,13 +324,13 @@
 	      	<div class="row center">
 	      			<h2>El Programa</h2>
 	      			<div class="col s12">
-	      					<img class="img-responsive" src="{{URL::asset('img/agenda/inspirar_m.png')}}" alt="" width="300">
+	      					<img class="responsive-img" src="{{URL::asset('img/agenda/inspirar_m.png')}}" alt="" width="300">
 	      			</div>
 	      			<div class="row">
-	      				<img class="img-responsive" src="{{URL::asset('img/agenda/involucrar_m.png')}}" alt="" width="300">
+	      				<img class="responsive-img" src="{{URL::asset('img/agenda/involucrar_m.png')}}" alt="" width="300">
 	      			</div>
 	      			<div class="row">
-	      				<img class="img-responsive" src="{{URL::asset('img/agenda/actuar_m.png')}}" alt="" width="300">
+	      				<img class="responsive-img" src="{{URL::asset('img/agenda/actuar_m.png')}}" alt="" width="300">
 	      			</div>
 	      	</div>
 	        <div class="row center wow zoomIn" data-wow-delay="0.3s">
@@ -192,56 +345,6 @@
 </section>
 <!-- /Agenda -->
 
-<!-- To do: Agenda movil -->
-<!-- /Agenda movil -->
-
-<!--Partners-->
-<section class="container-fluid section" id="ponentes">
-    <article class="container y-azul-text">
-        <h4 class="center-align whitespace-short y-azul-text"><span class="light">Ponentes</span> Magistrales</h4>
-        <div class="row section center">
-            <article class="col s12 m3 offset-m2 l3 offset-l2">
-                <div><img class="responsive-img" src="{{URL::asset('img/ponentes/maria_sacasa.png')}}" alt=""></div>
-                <h4><b>Maria Sacasa</b></h4>
-                <h5 class="light">Coordinadora Residente <br>de ONU Perú</h5>
-            </article>
-            <article class="col s12 m3 offset-m2 l3 offset-l2">
-                <div><img class="responsive-img" src="{{URL::asset('img/ponentes/nancy_lange.png')}}" alt=""></div>
-                <h4><b>Nancy Lange</b></h4>
-                <h5 class="light">Primera Dama de la <br>Nación del Perú</h5>
-            </article>
-        </div>
-    </article>
-</section>
-
-<!-- Y4GG-->
-<section>
-	<div class="parallax-overlay">
-	<div id="y4gg" class="parallax-container">
-	    <div class="section no-pad-bot">
-	      <div class="container center">
-	      	<div class="row">
-	      		<div class="center ods-image">
-	      			<img src="{{URL::asset('img/logo/y4gg.png')}}" alt="">
-	      		</div>
-	      	</div>
-	      	<div class="section"></div>
-	      	<div class="row">
-	            <h3 class="header col s12 light center">
-		        	<p class="y4ggcont wow fadeIn" data-wow-delay="0.4s">Este evento contribuye <br>a los Objetivos de Desarrollo Sostenible</p>
-	            </h3>	      		
-	      	</div>
-	        <div class="row center wow zoomIn" data-wow-delay="0.3s">
-	        	<div class="section"></div>
-	         	<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a>
-	      	</div>
-	      </div>
-	    </div>
-	    <div class="parallax"><img src="{{URL::asset('img/bg/y4gg.jpg')}}" alt="Unsplashed background img 1"></div>
-	</div>
-	</div>
-</section>
-<!-- /Y4GG -->
 	
 <!--Partners-->
 <section class="container-fluid section" id="aliados">
@@ -267,46 +370,124 @@
                 <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/pucp.png')}}" alt=""></div>
             </article>
         </div>
+
+        <h4 class="center-align light"><b>Auspician:</b></h4>
+        <div class="row section center">
+        	<article class="col s12 m2 offset-m1 l2 offset-l1">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/auspicio/tata.jpg')}}" alt=""></div>
+        	</article>
+        	<article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/auspicio/protacol.jpg')}}" alt=""></div>
+        	</article>
+        	<article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/auspicio/mapfre.jpg')}}" alt=""></div>
+        	</article>
+        	<article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/auspicio/enel.jpg')}}" alt=""></div>
+        	</article>
+        	<article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/auspicio/planet.jpg')}}" alt=""></div>
+        	</article>
+		</div>
+		<div class="row section center">
+        	<article class="col s12 m2 offset-m2 l2 offset-l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/auspicio/talklist.jpg')}}" alt=""></div>
+        	</article>
+        	<article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/auspicio/nestle.jpg')}}" alt=""></div>
+        	</article>
+        	<article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/auspicio/cocacola.jpg')}}" alt=""></div>
+        	</article>
+        	<article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/auspicio/cabify.jpg')}}" alt=""></div>
+        	</article>
+		</div>
+
         <h4 class="center-align whitespace-short light"><b>Participan:</b></h4>
         <div class="row section center">
-            <article class="col s12 m3 l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/crea.png')}}" alt=""></div>
+            <article class="col s12 m2 offset-m2 l2 offset-l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/techo.jpg')}}" alt=""></div>
             </article>
-            <article class="col s12 m3 l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/wwf.png')}}" alt=""></div>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/wwf.jpg')}}" alt=""></div>
             </article>
-            <article class="col s12 m3 l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/care.png')}}" alt=""></div>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/yaqua.jpg')}}" alt=""></div>
             </article>
-            <article class="col s12 m3 l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/inppares.png')}}" alt=""></div>
-            </article>
-		</div>
-		<div class="row section center">
-            <article class="col s12 m3 l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/minam.png')}}" alt=""></div>
-            </article>
-            <article class="col s12 m3 l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/champs.png')}}" alt=""></div>
-            </article>
-            <article class="col s12 m3 l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/rua.png')}}" alt=""></div>
-            </article>
-            <article class="col s12 m3 l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/un.png')}}" alt=""></div>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/crea.jpg')}}" alt=""></div>
             </article>
 		</div>
 		<div class="row section center">
-            <article class="col s12 m3 offset-m3 l3 offset-l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/techo.png')}}" alt=""></div>
+            <article class="col s12 m2 offset-m2 l2 offset-l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/sunedu.jpg')}}" alt=""></div>
             </article>
-            <article class="col s12 m3 l3">
-                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/ops.png')}}" alt=""></div>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/minam.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/midis.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/onu.jpg')}}" alt=""></div>
+            </article>
+		</div>
+		<div class="row section center">
+            <article class="col s12 m2 offset-m2 l2 offset-l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/latamStartups.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/Unacem.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/microsoft.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/abe.jpg')}}" alt=""></div>
+            </article>
+		</div>
+		<div class="row section center">
+            <article class="col s12 m2 offset-m2 l2 offset-l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/champs.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/care.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/alto.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/wit.jpg')}}" alt=""></div>
+            </article>
+		</div>
+		<div class="row section center">
+            <article class="col s12 m2 offset-m2 l2 offset-l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/ashanti.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/inppares.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/ifmsa.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/rua.jpg')}}" alt=""></div>
+            </article>
+		</div>
+		<div class="row section center">
+            <article class="col s12 m2 offset-m2 l2 offset-l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/senaju.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/wwl.jpg')}}" alt=""></div>
+            </article>
+            <article class="col s12 m2 l2">
+                <div><img class="responsive-img" src="{{URL::asset('img/logo/aliados/participan/plastic.jpg')}}" alt=""></div>
             </article>
 		</div>
     </article>
 </section>
-
 @stop
 
 @section('js')
