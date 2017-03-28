@@ -254,7 +254,7 @@
 <!-- /Y4GG -->
 
 <!-- Y4GG Mobile -->
-<section class="container-fluid blue lighten-4">
+<section class="container-fluid blue lighten-4 hide-on-med-and-up">
 	<article class="row">
 		<div class="col s12">
 			<h4 class="header light center">
