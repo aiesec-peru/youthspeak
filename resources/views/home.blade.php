@@ -360,7 +360,7 @@
 </section>
 <!-- /Agenda -->
 
-<section class=" white-text center hello-bar" style="height: 60px; background: #C2210D" >
+<section class=" white-text center hello-bar-reduce hello-bar" style="height: 60px; background: #C2210D" >
 	<div style="display: inline-block;">
 		<p style="margin: 0; display: inline-block; padding-top: 0.8em;"><b>En caso desees adquirir más de 10 entradas, regístrate en:</b></p>			
 	</div>

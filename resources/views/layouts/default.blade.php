@@ -16,7 +16,7 @@
 	@yield('css')
 </head>
 <body>
-	<section class=" white-text center hello-bar" style="height: 60px; background: #C2210D" >
+	<section class=" white-text center hello-bar hello-bar-principal" style="height: 60px; background: #C2210D" >
 		<div style="display: inline-block;">
 			<p style="margin: 0; display: inline-block; padding-top: 1em;"><b>Es momento que los jóvenes sumen fuerzas para construir un mejor Perú.</b></p>			
 		</div>
