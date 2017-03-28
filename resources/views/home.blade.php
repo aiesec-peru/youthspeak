@@ -360,6 +360,14 @@
 </section>
 <!-- /Agenda -->
 
+<section class=" white-text center hello-bar" style="height: 60px; background: #C2210D" >
+	<div style="display: inline-block;">
+		<p style="margin: 0; display: inline-block; padding-top: 0.8em;"><b>En caso desees adquirir más de 10 entradas, regístrate en:</b></p>			
+	</div>
+	<div style="display: inline-block;">
+		<a href="https://podio.com/webforms/18185993/1222058" target="_blank" id="download-button" class="valign btn waves-effect waves-light white z-depth-3" style="color: #C2210D; display: inline-block; margin-left: 1em;"><strong>Venta Corporativa</strong></a>
+	</div>
+</section>
 	
 <!--Partners-->
 <section class="container-fluid section" id="partners">
