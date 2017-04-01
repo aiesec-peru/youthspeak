@@ -102,12 +102,11 @@
     			<h5 class="light">s/. 45</h5>
     		</div>
     		<div class="col s12 m4 l4 center">
-    			<h5><b style="text-decoration: underline">16 al 31 de marzo</b></h5>
+    			<h5><b style="text-decoration: underline">16 de marzo al 1 de abril</b></h5>
     			<h5 class="light">s/. 60</h5>
     		</div>
-    		<div class="col s12 m3 l3 center">
-    			<h5><b style="text-decoration: underline">1 al 2 de abril</b></h5>
-    			<h5 class="light">s/. 75</h5>
+    		<div class="col s12 m4 l4 center">
+    			<h5 class="red-text"><b>Cierre de inscripciones y pagos: 1 de abril</b></h5>
     		</div>
     	</article>
     </section>

@@ -18,7 +18,7 @@
 <body>
 	<section class=" white-text center hello-bar hello-bar-principal" style="height: 60px; background: #C2210D" >
 		<div style="display: inline-block;">
-			<p style="margin: 0; display: inline-block; padding-top: 1em;"><b>Es momento que los jóvenes sumen fuerzas para construir un mejor Perú.</b></p>			
+			<p style="margin: 0; display: inline-block; padding-top: 1em;"><b>Cierre de inscripciones y pagos: 1 de abril</b></p>			
 		</div>
 		<div style="display: inline-block;">
 			<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="valign btn waves-effect waves-light y-celeste z-depth-3" style="display: inline-block; margin-left: 1em;"><strong>Adquiere tu entrada</strong></a>
