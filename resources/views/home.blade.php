@@ -161,10 +161,6 @@
                 	<h6 class="title-ponentes">Directora de <br>Operaciones <br>- Plastic Oceans -</h6>
             	</div>
 			</article>
-	      	
-	        <div class="row center wow zoomIn" data-wow-delay="0.3s">
-	         	<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="call-to-action-btn btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a>
-	      	</div>
 	      </div>
 	    </div>
 	    <div class="parallax"><img src="{{URL::asset('img/bg/call_to_action.jpg')}}" alt="Unsplashed background img 1"></div>
@@ -236,13 +232,10 @@
 					        	<p class="y4ggcont wow fadeIn" data-wow-delay="0.4s">Este evento <b>contribuye</b> a</p>
 				            </h4>
 			      		</div>
-			      		<div class="col s12 m4 l4">
-				      		<div class="center ods-image">
-				      			<img src="{{URL::asset('img/logo/y4gg.png')}}" alt="">
+			      		<div class="col s12 m6 l6">
+				      		<div class="ods-image">
+				      			<img src="{{URL::asset('img/logo/y4gg.png')}}" width="180" alt="">
 				      		</div>	      			
-			      		</div>
-			      		<div class="col s12 m4 l4 valign">
-			            	<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a>
 			      		</div>
 			      	</div>
 		    </div>
@@ -262,7 +255,7 @@
 		</div>
 		<div class="col s12">
 			<div class="center ods-image whitespace-large">
-				<img src="{{URL::asset('img/logo/y4gg.png')}}" alt="">
+				<img src="{{URL::asset('img/logo/y4gg.png')}}" width="180" alt="">
 			</div>
 		</div>
 	</article>
@@ -317,10 +310,6 @@
 	      			</div>
 	      		</div>
 	      	</div>
-	        <div class="row center wow zoomIn" data-wow-delay="0.3s">
-	        	<div class="section"></div>
-	         	<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a>
-	      	</div>
 	      </div>
 	    </div>
 	    <div class="parallax"><img src="{{URL::asset('img/bg/ysf.jpg')}}" alt="Unsplashed background img 1"></div>
@@ -347,10 +336,6 @@
 	      				<img class="responsive-img" src="{{URL::asset('img/agenda/actuar_m.png')}}" alt="" width="300">
 	      			</div>
 	      	</div>
-	        <div class="row center wow zoomIn" data-wow-delay="0.3s">
-	        	<div class="section"></div>
-	         	<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="btn-large waves-effect waves-light modal-trigger y-celeste z-depth-3"><strong>Adquiere tu entrada</strong></a>
-	      	</div>
 	      </div>
 	    </div>
 	    <div class="parallax"><img src="{{URL::asset('img/bg/ysf.jpg')}}" alt="Unsplashed background img 1"></div>
@@ -358,16 +343,6 @@
 	</div>
 </section>
 <!-- /Agenda -->
-
-<section class=" white-text center hello-bar-reduce hello-bar" style="height: 60px; background: #C2210D" >
-	<div style="display: inline-block;">
-		<p style="margin: 0; display: inline-block; padding-top: 0.8em;"><b>En caso desees adquirir más de 10 entradas, regístrate en:</b></p>			
-	</div>
-	<div style="display: inline-block;">
-		<a href="https://podio.com/webforms/18185993/1222058" target="_blank" id="download-button" class="valign btn waves-effect waves-light white z-depth-3" style="color: #C2210D; display: inline-block; margin-left: 1em;"><strong>Venta Corporativa</strong></a>
-	</div>
-</section>
-	
 <!--Partners-->
 <section class="container-fluid section" id="partners">
     <article class="container y-azul-text">

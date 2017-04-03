@@ -18,10 +18,7 @@
 <body>
 	<section class=" white-text center hello-bar hello-bar-principal" style="height: 60px; background: #C2210D" >
 		<div style="display: inline-block;">
-			<p style="margin: 0; display: inline-block; padding-top: 1em;"><b>Cierre de inscripciones y pagos: 1 de abril</b></p>			
-		</div>
-		<div style="display: inline-block;">
-			<a href="https://podio.com/webforms/17985408/1208462" target="_blank" id="download-button" class="valign btn waves-effect waves-light y-celeste z-depth-3" style="display: inline-block; margin-left: 1em;"><strong>Adquiere tu entrada</strong></a>
+			<p style="margin: 0; display: inline-block; padding-top: 1em;"><b>Las inscripciones fueron cerradas. ¡Nos vemos el 06 de Abril en la PUCP para convertir nuestra inspiración y colaboración en acción!</b></p>			
 		</div>
 	</section>
 	<!--MENU-->
@@ -66,10 +63,6 @@
               	<div class="col s12 l1"></div>
 
               	<div class="col s12 l3 white-text">
-              		<h5>Contáctanos</h5>
-              		<ul>
-              			<li><p>+51 954 115 425 <br> info@aiesec.pe</p></li>
-              		</ul>
                 	<h5>Síguenos</h5>
                 	<ul class="white-text list-social">
                   		<li class="list-social-item"><a href="https://www.facebook.com/events/1916029421983161/" target="_blank"><i class="white-text fa fa-facebook fa-2x" aria-hidden="true"></a></i></li>
