@@ -16,11 +16,6 @@
 	@yield('css')
 </head>
 <body>
-	<section class=" white-text center hello-bar hello-bar-principal" style="height: 60px; background: #C2210D" >
-		<div style="display: inline-block;">
-			<p style="margin: 0; display: inline-block; padding-top: 1em;"><b>Las inscripciones fueron cerradas. ¡Nos vemos el 06 de Abril en la PUCP para convertir nuestra inspiración y colaboración en acción!</b></p>			
-		</div>
-	</section>
 	<!--MENU-->
 	<nav class="ys-azul bg-nav" role="navigation">
 	    <div class="nav-wrapper container">
@@ -55,8 +50,8 @@
 		<div class="container">
             <div class="row">
               	<div class="col s12 l8">
-                	<h5 class="white-text">#JóvenesPorLosODS #LiderazgoJuvenil</h5>
                 	<h5 class="white-text">#YSF2017</h5>
+                	<h5 class="white-text">#JóvenesPorLosODS #LiderazgoJuvenil</h5>
                 	<p class="grey-text text-lighten-4">Un lugar donde la inspiración y la colaboración se convierten en acción.</p>
               	</div>
 
