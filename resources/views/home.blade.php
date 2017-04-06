@@ -184,36 +184,71 @@
       	<section>
       		<article class="row section">
       			<div class="col s12 m4 l4 whitespace-short">
-      				<img class="responsive-img" src="{{URL::asset('img/workshops/1-1.jpg')}}">      				      				
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/2.jpg')}}">      				      				
       			</div>
       			<div class="col s12 m4 l4 whitespace-short">
-      				<img class="responsive-img" src="{{URL::asset('img/workshops/3-1.jpg')}}">      				      				
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/3.jpg')}}">      				      				
       			</div>
       			<div class="col s12 m4 l4 whitespace-short">
-      				<img class="responsive-img" src="{{URL::asset('img/workshops/3-2.jpg')}}">      				      				
-      			</div>
-      		</article>
-      		<article class="row section">
-      			<div class="col s12 m4 l4 whitespace-short">
-      				<img class="responsive-img" src="{{URL::asset('img/workshops/4-1.jpg')}}">      				      				
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/4.jpg')}}">      				      				
       			</div>
       			<div class="col s12 m4 l4 whitespace-short">
-      				<img class="responsive-img" src="{{URL::asset('img/workshops/4-2.jpg')}}">      				      				
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/5.jpg')}}">      				      				
       			</div>
       			<div class="col s12 m4 l4 whitespace-short">
-      				<img class="responsive-img" src="{{URL::asset('img/workshops/5-1.jpg')}}">      				      				
-      			</div>
-      		</article>
-      		<article class="row section">
-      			<div class="col s12 m4 l4 whitespace-short">
-      				<img class="responsive-img" src="{{URL::asset('img/workshops/10-1.jpg')}}">      				      				
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/6.jpg')}}">      				      				
       			</div>
       			<div class="col s12 m4 l4 whitespace-short">
-      				<img class="responsive-img" src="{{URL::asset('img/workshops/13-1.jpg')}}">      				      				
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/7.jpg')}}">      				      				
       			</div>
       			<div class="col s12 m4 l4 whitespace-short">
-      				<img class="responsive-img" src="{{URL::asset('img/workshops/13-2.jpg')}}">      				      				
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/8.jpg')}}">      				      				
       			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/9.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/10.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/11.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/13.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/14.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/15.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/16.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/17.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/18.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/19.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/20.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/21.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/23.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/24.jpg')}}">      				      				
+      			</div>
+      			<div class="col s12 m4 l4 whitespace-short" style="margin:0.2em">
+      				<img class="responsive-img" src="{{URL::asset('img/workshops/25.jpg')}}">      				      				
+      			</div>      		
       		</article>      		
       	</section>
 	</section>
