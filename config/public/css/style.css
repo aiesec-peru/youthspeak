@@ -1,0 +1,462 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+/* Nav */
+.bg-nav{
+  background: url('../img/logo/nav.jpg');
+}
+
+.explain-text{
+  font-size: 1.4em;
+}
+
+#logo-principal{
+  width: 350px;
+}
+
+.parallax-container-home{
+  max-height: 600px!important;
+}
+
+.parallax-container-y4gg{
+    min-height: 214px!important;
+    max-height: 214px;
+}
+
+/* Icons */
+.explain-icons{
+	font-size: 100px;
+	display: block;
+}
+/*Whitespace*/
+
+.whitespace-large{
+  margin-top: 45px;
+  margin-bottom: 45px;
+  margin-right: 0px;
+}
+
+.whitespace-short{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.parallax-overlay{
+  background-color:rgba(0,0,0,0.5);
+}
+/*COLORES*/
+/*Backgrounds*/
+.ys-azul{
+	background-color: #092342;
+}
+
+.y-verde{
+  background-color: #3AAA49;  
+}
+
+.y-azul{
+  background-color: #06436A;
+}
+
+.y-amarillo{
+  background-color: #F8BA00;
+}
+
+.y-rojo{
+  background-color: #C11039;
+}
+
+.y-celeste{
+  background-color: #10ade1;
+}
+
+/*Textos*/
+.y-verde-text{
+  color: #3AAA49;  
+}
+
+.y-azul-text{
+  color: #06436A;
+}
+
+.y-amarillo-text{
+  color: #F8BA00;
+}
+
+.y-rojo-text{
+  color: #C11039;
+}
+
+.y-celeste-text{
+  color: #10ade1;
+}
+
+body{
+  font-family: 'Lato', serif;
+}
+
+.title-principal{
+  font-weight: 700;
+}
+
+.sub-title-x{
+  font-weight: 300;
+  font-size: 2em;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 700px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+.parallax-container .section {
+  width: 100%;
+}
+
+.call-to-action-title{
+	font-size: 12em;
+  	font-weight: 700;
+  	margin-left: -55px;
+}
+
+.call-to-action-subtitle{
+  font-weight: 700;
+	padding-top: 2em;
+}
+
+.y4ggcont{
+  line-height: 50px;
+}
+
+/*
+.parallax-ods{
+
+.parallax-container-ods{
+  min-height: 100px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  height: 300px;
+}*/
+
+.padd-left{
+  padding-left: 1em;
+}
+
+.contador_wrapper{
+  margin-top: 0px;
+}
+
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {  
+  
+  .hello-bar-reduce{
+    height: 100px!important; 
+  }
+
+  .info-title{
+    margin-top: -400px;
+  }
+
+  .info-sub{
+    margin-top: -200px;    
+  }
+
+  .info-sub-x{
+    margin-top: -320px;
+  }
+
+  .info-sub-y{
+    margin-top: -50px;
+  }
+
+  .info-sub-z{
+    margin-top: 2em;
+  }
+
+  .parallax-container-info{
+    min-height: 1000px;
+  }
+
+  .y4ggcont{
+    font-size: 30px;
+  }
+
+  #index-banner .section {
+    top: 0;
+  }
+
+  .title-principal{
+    margin-bottom: 0.2em;
+    font-size: 50px;
+  }
+
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+
+/*RESPONSIVE*/
+@media only screen and (min-width: 700px) {
+  .img-logo{
+    width:350px;
+    margin-top: 150px;
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 620px) {
+.call-to-action-btn{
+  margin-top: 2em;
+}
+
+.title-ponentes{
+  font-size: 1em;
+}
+
+.inspirar-text{
+  font-size: 1.2em;
+}
+
+.ponente-img{
+  width: 100px;
+}
+
+.hello-bar{
+  height: 130px;
+}
+
+.hello-bar-principal{
+  height: 130px!important;
+}
+
+.title-principal{
+  font-size: 40px;
+}
+
+#logo-principal{
+  width: 200px;  
+}
+
+.call-to-action-title{
+  margin: -1.3em;
+}
+
+.ods-image{
+  margin-top: -10em;
+  display: block;
+}
+
+.sub-title-x{
+  font-size: 1.2em;
+}
+
+.call-to-action-subtitle{
+  margin-top: -1.3em;
+}
+
+.poli{
+  font-size: 0.8em;
+}
+
+.img-logo{
+    width:250px;
+    margin-top: 150px;    
+    margin-right: 50px;
+}
+
+  .whitespace-large{
+    margin: 0;
+  }
+
+  .inline-text{
+    display: block!important;
+  }
+
+  .text-ods{
+    margin-top: -25px!important;
+    line-height: 40px!important;
+  }
+
+}
+
+.sub-title{
+  font-weight: 500;
+}
+
+.page-footer{
+  background-color: #06436A!important;
+}
+
+.header-title{
+  padding: 0.3em 0 0.3em 1em;
+}
+
+/*Mapa*/
+/*.modal-content{
+  background: url('../img/modalidades.png') no-repeat center center fixed;
+  width: 300px;
+  height: 300px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+.inline-text{
+  display: inline;
+  margin-left: 1em;
+  margin-top: 1em;
+}
+
+.modal{
+  overflow-y: visible;
+}
+
+.modal-content{
+   /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 300px;
+
+  background: url('../img/modal/modalidades.png');
+  
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: 500px;
+  
+  /* Set up positioning */
+  top: 0;
+  left: 0;
+}
+
+.modal-content-comentario{
+   /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 300px;
+
+  background: url('../img/modal/comentario.png');
+  
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: 500px;
+  
+  /* Set up positioning */
+  top: 0;
+  left: 0;
+}
+
+.modal-img{
+  margin-top: 2em;
+}
+
+.modal-coment{
+  margin-top: 5em;
+}
+
+.text-ods{
+  margin-top: -10px;
+  line-height: 19px;
+}
+
+.card-blue{
+  padding: 0.8em;
+  border-radius: 0.2em;
+}
+
+.card-blue-large{
+  padding: 1.34em;
+  border-radius: 0.2em;
+}
+
+.sub-title-count{
+  margin-bottom: 0;
+}
+
+/*Card Iniciativas*/
+.card-subtitle{
+  padding-bottom: 0.5em;
+  line-height: 1em;
+}
+
+.card-subtitle-text{
+  color: rgba(0,0,0,0.57);
+}
+
+.card-content-text{
+  line-height: 1.9em;
+}
+
+.card-action-list{
+  margin: 1em 0 0.5em;
+}
+
+.card-action-list-item{
+  margin-bottom: 1em;
+}
+
+.card-action-list-item:last-child{
+  margin-bottom: 0em;
+}
+
+.card-action-list-item-icon{
+  padding-right: 0.2em;
+
+}
+
+.benefit-title{
+  padding-top: 1em;
+}
+
+.card-content{
+  padding-bottom: 0em!important;
+}
+
+.actioner{
+  padding-left: 0em;
+}
+
+/*FOOTER*/
+
+.list-social-item{
+  display: inline;
+  margin-right: 0.8em;
+}

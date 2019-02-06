@@ -16,7 +16,7 @@
 }
 
 #logo-principal{
-  width: 350px;
+  width: 300px;
 }
 
 .parallax-container-home{
@@ -123,7 +123,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 700px;
+  min-height: 550px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
@@ -167,11 +167,24 @@ p {
   margin-top: 0px;
 }
 
+@media only screen and (max-width : 472px) {
+  .padding-35{
+    padding: 35px;
+  }
 
+  .margin{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .margin-top-20{
+    margin-top: 20px
+  }
+}
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
-    top: 40%;
+    top: 65%;
   }
   #index-banner .section {
     top: 10%;
@@ -237,6 +250,7 @@ footer.page-footer {
 
 /*RESPONSIVE*/
 @media only screen and (min-width: 700px) {
+
   .img-logo{
     width:350px;
     margin-top: 150px;
@@ -245,6 +259,7 @@ footer.page-footer {
 }
 
 @media only screen and (max-width: 620px) {
+
 .call-to-action-btn{
   margin-top: 2em;
 }
@@ -459,4 +474,11 @@ footer.page-footer {
 .list-social-item{
   display: inline;
   margin-right: 0.8em;
+}
+
+.btn-comprar{
+  background-color: #06436A;
+  color:white;
+  font-family: 'Lato', serif;
+  font-weight: bold;
 }

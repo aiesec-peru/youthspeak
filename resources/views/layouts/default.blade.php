@@ -50,7 +50,7 @@
 		<div class="container">
             <div class="row">
               	<div class="col s12 l8">
-                	<h5 class="white-text">#YSF2017</h5>
+                	<h5 class="white-text">#YSF2018</h5>
                 	<h5 class="white-text">#JóvenesPorLosODS #LiderazgoJuvenil</h5>
                 	<p class="grey-text text-lighten-4">Un lugar donde la inspiración y la colaboración se convierten en acción.</p>
               	</div>
@@ -60,7 +60,7 @@
               	<div class="col s12 l3 white-text">
                 	<h5>Síguenos</h5>
                 	<ul class="white-text list-social">
-                  		<li class="list-social-item"><a href="https://www.facebook.com/events/1916029421983161/" target="_blank"><i class="white-text fa fa-facebook fa-2x" aria-hidden="true"></a></i></li>
+                  		<!-- <li class="list-social-item"><a href="https://www.facebook.com/events/1916029421983161/" target="_blank"><i class="white-text fa fa-facebook fa-2x" aria-hidden="true"></a></i></li> -->
                   		<li class="list-social-item"><a href="https://www.youtube.com/user/AIESECPeru" target="_blank"><i class="white-text fa fa-youtube-play fa-2x" aria-hidden="true"></a></i></li>
                   		<li class="list-social-item"><a href="https://www.instagram.com/aiesecenperu/" target="_blank"><i class="white-text fa fa-instagram fa-2x"></a></i></li>
                   		<li class="list-social-item"><a href="https://twitter.com/AIESEC_PERU" target="_blank"><i class="white-text fa fa-twitter fa-2x"></a></i></li>
